@@ -1,0 +1,4 @@
+1) Put your text data in the file named "UncompressedFile.txt"
+2) Compile the code and enter "c" to compress
+3) The uncompressed file will be compressed into three file [UncompressedFile -> [compressedFile.bin, Frequencies.txt, SortedKey.txt]]
+4) Compile the code and enter "d" to uncompress the file
